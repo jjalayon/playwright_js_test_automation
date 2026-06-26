@@ -18,9 +18,6 @@ The project demonstrates practical scenarios for testing login functionality on 
 *   [💡 Usage](#-usage)
 *   [🤔 How to Use](#-how-to-use)
 *   [📂 Project Structure](#-project-structure)
-*   [🚫 API Reference](#-api-reference)
-*   [🤝 Contributing](#-contributing)
-*   [📜 License](#-license)
 *   [🔗 Important Links](#-important-links)
 *   [©️ Footer](#%EF%B8%8F-footer)
 
@@ -177,25 +174,6 @@ playwright_js_test_automation/
 ├── run-playwright-allure.sh        # (Empty content) Shell script for running tests and generating reports
 └── README.md                       # Project documentation
 ```
-
-## 🚫 API Reference
-
-This project is an end-to-end UI test automation framework and does not expose a public API. Its purpose is to interact with web applications through their user interface.
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, please feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/your-feature-name`).
-3.  Make your changes.
-4.  Commit your changes (`git commit -m 'feat: Add new feature'`).
-5.  Push to the branch (`git push origin feature/your-feature-name`).
-6.  Open a Pull Request.
-
-## 📜 License
-
-No license information was provided for this repository.
 
 ## 🔗 Important Links
 
